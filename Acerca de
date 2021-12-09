@@ -9,7 +9,7 @@
     <title>E.E.S.O. N° 419 "Domingo Faustino Sarmiento" | Fazt</title>
     <link rel="stylesheet" href="css/login.css">
 </head>
-<body bgcolor="BROWN">
+<body background:linear-gradient(top, black 10%, orangered 75%,>
     <center>
         <h1>E.E.S.O. N° 419 "Domingo Faustino Sarmiento" </h1>
         <br> <h2>Acerca de</h2> </br>
@@ -23,7 +23,7 @@
                 <br>IG: @maru.mailen</br>
                 <br>Revay, Christian</br>
                 <br>IG: @christianrevay1 </br>
-                <br>Carballeira, Angel</br>
+                <br>
             </h5>
         </br>
         <br>
